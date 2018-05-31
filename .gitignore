@@ -3,3 +3,7 @@
 /LYMPHOCYTE/
 /MONOCYTE/
 /NEUTROPHIL/
+
+blood_cell.npy
+blood_cell_test.npy
+blood_cell_train.npy
